@@ -99,7 +99,7 @@ new Viewer(element[, options])
 ```
 
 ```js
-// import 'viewerjs/dist/viewer.css';
+import 'viewerjs/dist/viewer.css';
 import Viewer from 'viewerjs';
 
 // View an image
